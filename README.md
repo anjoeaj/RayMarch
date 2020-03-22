@@ -4,5 +4,5 @@ This is a shadertoy friendly shader for KodeLife where a simple Ray Marcher is i
 Diffuse lighting and shadows are also implemented.
 
 
-![Output](output.gif)
+![Output](raymarch.gif)
 
